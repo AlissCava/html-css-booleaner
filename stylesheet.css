@@ -21,7 +21,49 @@
     margin-bottom: 0%;
 }
 
-strong{
+#azzurro{
     color: deepskyblue;
 }
 
+.credit{
+    font-size: 10px;
+    margin: 0%;
+}
+
+.parLUNGO, #lista{
+    font-size: larger;
+}
+
+.giallo{
+    background-color: yellow;
+}
+
+#lista{
+    margin: 0%;
+}
+
+thead{
+    background-color: rgb(4, 160, 208);
+    color: aliceblue;
+    text-align: left;
+}
+
+.td1{
+    width: 25%;
+    text-align: left;
+}
+
+.td2{
+    width: 25%;
+    text-align: left;
+}
+
+.td3{
+    width: 50%;
+    text-align: left;
+}
+
+
+#riga1, #riga3{
+    background-color: rgb(175, 221, 238);
+}
