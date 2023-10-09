@@ -13,12 +13,19 @@
 
 #titolo{
     margin: 0%;
+    font-size: 45px;
 }
 
-#autore, #data{
+#autore{
     font-size: smaller;
     margin-top: 0%;
     margin-bottom: 0%;
+}
+
+#data{
+    font-size: smaller;
+    margin-top: 0%;
+    margin-bottom: 20px;
 }
 
 #azzurro{
@@ -67,3 +74,5 @@ thead{
 #riga1, #riga3{
     background-color: rgb(175, 221, 238);
 } 
+
+
