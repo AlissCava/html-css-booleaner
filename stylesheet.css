@@ -1,0 +1,27 @@
+.head{
+    background-color: cornflowerblue;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat-x;
+    height: 100px;
+}
+
+
+#logo{
+    width: 200px;
+    margin-top: 50px;
+}
+
+#titolo{
+    margin: 0%;
+}
+
+#autore, #data{
+    font-size: smaller;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+strong{
+    color: deepskyblue;
+}
+
